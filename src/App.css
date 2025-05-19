@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --font-lobster: "Lobster", "sans-serif";
+  --font-sans: "Open Sans", "sans-serif";
+  /* ... */
+}
